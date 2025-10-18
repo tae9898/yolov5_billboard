@@ -1,3 +1,3 @@
 # auto-filedwork
 ## python, opencv, yolov5, pandas, deepface
-![image](https://github.com/tae9898/auto-filedwork/assets/113410967/c3006ba3-cd5a-435d-945b-5c880cb3e222)
+<img width="1529" height="757" alt="image" src="https://github.com/user-attachments/assets/54620e47-7dd9-4729-9c45-300a784b8ce5" />
